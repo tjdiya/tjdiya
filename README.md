@@ -8,8 +8,8 @@ I am a Software Quality Professional based in Ontario, Canada, specializing in *
 ## 🛠️ Technical Expertise
 
 - **Test Design:** Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Decision Tables, State Transition Testing.
-- **Automation:** Playwright (JS/TS), Cypress, Selenium.
-- **Tools:** Git/GitHub, Jira, Postman (API Testing).
+- **Languages & Frameworks:** Javascript.
+- **Tools:** Git/GitHub, Jira, Postman.
 - **Core Strengths:** Identifying "off-by-one" errors, complex business logic validation, and illegal state transitions.
 
 ---
