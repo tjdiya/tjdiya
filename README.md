@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Diya Sebastian 👋 
 
-<!--
-**tjdiya/tjdiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇨🇦 QA Engineer | Former Developer | Test Logic Specialist
+I am a Software Quality Professional based in Ontario, Canada, specializing in **Manual Test Design** and **Modern Automation**. With a background in software development, I bridge the gap between "writing code" and "breaking code" to ensure robust, high-quality releases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Expertise
+
+- **Test Design:** Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Decision Tables, State Transition Testing.
+- **Automation:** Playwright (JS/TS), Cypress, Selenium.
+- **Tools:** Git/GitHub, Jira, Postman (API Testing).
+- **Core Strengths:** Identifying "off-by-one" errors, complex business logic validation, and illegal state transitions.
+
+---
+
+## 📂 Featured QA Projects
+
+### 🎯 [Modern-QA-Manual-Testing](https://github.com/tjdiya/Modern-QA-Manual-Testing)
+A showcase of structured manual testing techniques applied to real-world scenarios.
+- **BVA & EP:** Applied to Ontario G1 Licensing age requirements.
+- **Decision Tables:** Complex promo code and insurance eligibility logic.
+- **State Transitions:** Visualizing e-commerce order lifecycles using Mermaid.js.
+
+---
+
+## 📈 My QA Philosophy
+> "I don't just find bugs; I find the logic gaps that lead to them." 
+I believe in **optimized testing**. By using mathematical techniques like Equivalence Partitioning, I reduce test bloat and focus execution time on the most critical "danger zones" of an application.
+
+---
+
+## 📫 Connect with me
+- 📍 Based in: GTA, Ontario, Canada
+- 💼 [LinkedIn Profile]()
+- 📝 Currently studying: Advanced Playwright & ISTQB v4.0 Standards
