@@ -17,10 +17,6 @@ I am a Software Quality Professional based in Ontario, Canada, specializing in *
 ## 📂 Featured QA Projects
 
 ### 🎯 [Modern-QA-Manual-Testing](https://github.com/tjdiya/Modern-QA-Manual-Testing)
-A showcase of structured manual testing techniques applied to real-world scenarios.
-- **BVA & EP:** Applied to Ontario G1 Licensing age requirements.
-- **Decision Tables:** Complex promo code and insurance eligibility logic.
-- **State Transitions:** Visualizing e-commerce order lifecycles using Mermaid.js.
 
 ---
 
